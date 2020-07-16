@@ -5,5 +5,4 @@ i'm using I2C lcd (blue) 16x2 and ardino r3
 
 for more info: https://arduino-info.wikispaces.com/LCD-Blue-I2C
 
-
 #uno
